@@ -8,9 +8,10 @@ int main()
     int y = 0;
     for (int i = 0; i < 10; i++) {
         y++;
-        std::cout << "Irishka";
+        
     }
-    std::cout << y;
+    std::cout << "Irishka";
+    std::cout << "molodez!!!";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
