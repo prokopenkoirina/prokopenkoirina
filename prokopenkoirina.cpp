@@ -13,6 +13,8 @@ int main()
     std::cout << "Irishka";
     std::cout << "molodez!!!";
     std::cout << "irishka ne molodezh";
+    std::cout << "Irishka";
+    std::cout << "molodez!!!";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
